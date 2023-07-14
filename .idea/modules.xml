@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lesson 4/Arithmetics/Arithmetics.iml" filepath="$PROJECT_DIR$/Lesson 4/Arithmetics/Arithmetics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 5/Arithmetics 5/Arithmetics 5.iml" filepath="$PROJECT_DIR$/Lesson 5/Arithmetics 5/Arithmetics 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 6/code/Arithmetics 6.iml" filepath="$PROJECT_DIR$/Lesson 6/code/Arithmetics 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 3/Exercise 2/Exercise 2.iml" filepath="$PROJECT_DIR$/Lesson 3/Exercise 2/Exercise 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 3/Exercise 3/Exercise 3.iml" filepath="$PROJECT_DIR$/Lesson 3/Exercise 3/Exercise 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 4/Homework/Homework.iml" filepath="$PROJECT_DIR$/Lesson 4/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 5/Homework 5/Homework 5.iml" filepath="$PROJECT_DIR$/Lesson 5/Homework 5/Homework 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Cohort30.iml" filepath="$PROJECT_DIR$/Java Cohort30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 10/Lesson 10.iml" filepath="$PROJECT_DIR$/Lesson 10/Lesson 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 11/Lesson 11.iml" filepath="$PROJECT_DIR$/Lesson 11/Lesson 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 12/Lesson 12.iml" filepath="$PROJECT_DIR$/Lesson 12/Lesson 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 13/Lesson 13.iml" filepath="$PROJECT_DIR$/Lesson 13/Lesson 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 14/Lesson 14.iml" filepath="$PROJECT_DIR$/Lesson 14/Lesson 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 15/Lesson 15.iml" filepath="$PROJECT_DIR$/Lesson 15/Lesson 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 16/Lesson 16.iml" filepath="$PROJECT_DIR$/Lesson 16/Lesson 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 17/Lesson 17.iml" filepath="$PROJECT_DIR$/Lesson 17/Lesson 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 18/Lesson 18.iml" filepath="$PROJECT_DIR$/Lesson 18/Lesson 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 19/Lesson 19.iml" filepath="$PROJECT_DIR$/Lesson 19/Lesson 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 20/Lesson 20.iml" filepath="$PROJECT_DIR$/Lesson 20/Lesson 20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 21/Lesson 21.iml" filepath="$PROJECT_DIR$/Lesson 21/Lesson 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 22/Lesson 22.iml" filepath="$PROJECT_DIR$/Lesson 22/Lesson 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 23/Lesson 23.iml" filepath="$PROJECT_DIR$/Lesson 23/Lesson 23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 24/Lesson 24.iml" filepath="$PROJECT_DIR$/Lesson 24/Lesson 24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 3/Lesson 3.iml" filepath="$PROJECT_DIR$/Lesson 3/Lesson 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 4/Lesson 4.iml" filepath="$PROJECT_DIR$/Lesson 4/Lesson 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 5/Lesson 5.iml" filepath="$PROJECT_DIR$/Lesson 5/Lesson 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 6/Lesson 6.iml" filepath="$PROJECT_DIR$/Lesson 6/Lesson 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 7/Lesson 7.iml" filepath="$PROJECT_DIR$/Lesson 7/Lesson 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 8/Lesson 8.iml" filepath="$PROJECT_DIR$/Lesson 8/Lesson 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 9/Lesson 9.iml" filepath="$PROJECT_DIR$/Lesson 9/Lesson 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 9/code_9/Practice_09/Practice_09.iml" filepath="$PROJECT_DIR$/Lesson 9/code_9/Practice_09/Practice_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 6/char-practic/char-practic.iml" filepath="$PROJECT_DIR$/Lesson 6/char-practic/char-practic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 9/code_9/code_9.iml" filepath="$PROJECT_DIR$/Lesson 9/code_9/code_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 10/hw_9/hw_9.iml" filepath="$PROJECT_DIR$/Lesson 10/hw_9/hw_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 7/if-else-practice/if-else-practice.iml" filepath="$PROJECT_DIR$/Lesson 7/if-else-practice/if-else-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 8/tasks/if-else-switch-case/if-else-switch-case.iml" filepath="$PROJECT_DIR$/Lesson 8/tasks/if-else-switch-case/if-else-switch-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 6/code/method-example/method-example.iml" filepath="$PROJECT_DIR$/Lesson 6/code/method-example/method-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 6/code/string-practice/string-practice.iml" filepath="$PROJECT_DIR$/Lesson 6/code/string-practice/string-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 8/tasks/tasks.iml" filepath="$PROJECT_DIR$/Lesson 8/tasks/tasks.iml" />
+    </modules>
+  </component>
+</project>
