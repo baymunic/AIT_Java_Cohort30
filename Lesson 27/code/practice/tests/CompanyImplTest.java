@@ -17,7 +17,7 @@ public class CompanyImplTest {
 
     @org.junit.jupiter.api.BeforeEach // void - ничего не возвращает
     void setUp() {
-        company = new CompanyImpl();
+        company = new CompanyImpl(5);
         firm = new Employee[4];
         firm[0] = new Manager(100, "John", "Smith", 174, 5000, 5);
         firm[1] = new SalesManager(101, "Brad", "Pitt", 174, 300000, 0.1);

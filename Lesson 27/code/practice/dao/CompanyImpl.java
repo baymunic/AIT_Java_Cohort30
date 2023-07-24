@@ -4,6 +4,9 @@ import practice.model.Employee;
 
 public class CompanyImpl implements Company{
 
+    public CompanyImpl(int capacity) {
+    }
+
     @Override
     public boolean addEmployee(Employee employee) {
         return false;
