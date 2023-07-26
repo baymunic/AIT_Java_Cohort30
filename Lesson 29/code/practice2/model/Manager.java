@@ -1,14 +1,16 @@
-package practice.company.model;
-
-// manager: base + grade*hours;
+package practice2.model;
 
 public class Manager extends Employee {
+
+    // дополнительные поля
     private double baseSalary;
     private int grade;
 
+    // конструктор
 
-    public Manager(int id, String firstname, String lastname, double hours, double baseSalary, int grade) {
-        super(id, firstname, lastname, hours);
+
+    public Manager(int id, String firstName, String lastName, double hours, double baseSalary, int grade) {
+        super(id, firstName, lastName, hours);
         this.baseSalary = baseSalary;
         this.grade = grade;
     }
@@ -31,10 +33,12 @@ public class Manager extends Employee {
 
     @Override
     public double calcSalary() {
-        double salary = baseSalary + grade*hours;
-        if (salary < hours * minWage) {
+        double salary = baseSalary + hours * grade; // почасовая ставка
+
+        if (salary < hours * minWage) { // если получилось меньше минимальной зарплаты, то назначаем минималку
             salary = hours * minWage;
         }
         return salary;
     }
+
 }
