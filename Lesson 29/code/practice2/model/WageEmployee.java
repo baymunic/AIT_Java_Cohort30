@@ -5,8 +5,6 @@ public class WageEmployee extends Employee {
     private double wage; // почасовая ставка
 
     // конструктор
-
-
     public WageEmployee(int id, String firstName, String lastName, double hours, double wage) {
         super(id, firstName, lastName, hours);
         this.wage = wage;
