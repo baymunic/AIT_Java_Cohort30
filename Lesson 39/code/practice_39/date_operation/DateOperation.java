@@ -3,7 +3,7 @@ package practice_39.date_operation;
 public class DateOperation {
 
     public static int getAge(String birthDate) {
-        //TODO
+        //TO DO
 
 
 
@@ -11,7 +11,7 @@ public class DateOperation {
     }
 
     public static String[] sortStringDates(String[] dates) {
-        //TODO
+        //TO DO
 
 
         return null;
