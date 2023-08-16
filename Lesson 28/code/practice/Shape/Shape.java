@@ -23,6 +23,8 @@ public abstract class Shape {
 
     public abstract double calcPerimeter(double a); // тело метода отсутствует!
 
+    public abstract double calcPerimeter();
+
 //    public abstract double calcPerimeter(); // вычисляем длину окружности
 
 }
